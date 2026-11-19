@@ -1,0 +1,17 @@
+{
+    "work_order_id": "ee14ef0f",
+    "machine_id": "MACHINE_001",
+    "created_at": "2026-11-19T14:18:27.568191",
+    "risk_level": "HIGH",
+    "priority": "P2 - Urgent",
+    "failure_probability": 0.75,
+    "anomaly_detected": true,
+    "recommended_action": "Urgent maintenance required",
+    "instructions": [
+        "Schedule urgent maintenance",
+        "Inspect machine components",
+        "Check abnormal sensor readings",
+        "Investigate unusual sensor behaviour"
+    ],
+    "status": "PENDING"
+}

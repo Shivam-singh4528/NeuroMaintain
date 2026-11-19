@@ -1,0 +1,18 @@
+{
+    "work_order_id": "26beb1a8",
+    "machine_id": "MACHINE_001",
+    "created_at": "2026-11-19T14:45:24.509473",
+    "risk_level": "CRITICAL",
+    "priority": "P1 - Immediate",
+    "failure_probability": 0.9925,
+    "anomaly_detected": true,
+    "recommended_action": "Stop machine safely and arrange immediate inspection.",
+    "instructions": [
+        "Safely stop the machine",
+        "Arrange immediate inspection",
+        "Inspect critical machine components",
+        "Verify machine safety before restarting",
+        "Investigate unusual sensor behaviour"
+    ],
+    "status": "PENDING"
+}

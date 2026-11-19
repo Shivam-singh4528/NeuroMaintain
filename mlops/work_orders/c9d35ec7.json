@@ -1,0 +1,16 @@
+{
+    "work_order_id": "c9d35ec7",
+    "machine_id": "MACHINE_001",
+    "created_at": "2026-11-19T15:26:44.383920",
+    "risk_level": "LOW",
+    "priority": "P4 - Routine",
+    "failure_probability": 0.0041,
+    "anomaly_detected": false,
+    "recommended_action": "Continue normal operation and routine maintenance.",
+    "instructions": [
+        "Continue normal operation",
+        "Perform routine inspection",
+        "Monitor sensor readings"
+    ],
+    "status": "PENDING"
+}
